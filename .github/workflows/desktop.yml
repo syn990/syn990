@@ -1,0 +1,43 @@
+# Redraws the desktop (tools/build.py) every morning, and after a push that
+# changes its sources, and commits the tiles under var/ when they changed:
+# every day the date in the bar, and syn-sysmon's numbers when they moved.
+#
+# syn-sysmon counts public repositories with the default token. To count
+# private ones too, add a read-only token as the STATS_TOKEN secret and set
+# private = true in desktop.toml.
+name: desktop
+
+on:
+  push:
+    branches: [main]
+    paths: ["tools/**", "desktop.toml", "home/**", "usr/**", "README.md"]
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: desktop
+  cancel-in-progress: true
+
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Draw the desktop
+        env:
+          GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python3 tools/build.py
+
+      - name: Commit what changed
+        run: |
+          git add -A var
+          git diff --cached --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -q -m "Redraw the desktop"
+          git push -q
