@@ -1,0 +1,33 @@
+# What the desktop shows. tools/build.py reads this on every push and once a
+# day; edit it here and push, and the profile redraws itself.
+
+# The notification in the top right corner. Body wraps at 33 characters, up to
+# three lines; the whole notification links to `link`.
+[notice]
+title = "SYN-OS on LFS 13.1"
+body = "The desktop now also builds on Linux From Scratch: runit, its own kernel, Void's packages."
+link = "https://github.com/syn990/SYN-OS"
+
+# syn-sysmon. Private repositories only count when the workflow has a
+# STATS_TOKEN that can see them and `private` is true; otherwise it's public
+# work only. Languages listed under `exclude` are left out of the chart.
+[stats]
+private = false
+exclude = ["Roff", "Makefile", "CMake", "Go Template", "BitBake", "M4"]
+
+# The feh window cycles through these, from tools/media.
+[[slideshow]]
+file = "1-syn-os.jpg"
+caption = "SYN-OS: the labwc menu over Waybar"
+
+[[slideshow]]
+file = "2-biogenesis-organism.jpg"
+caption = "SYN-BIOGENESIS: an organism's card"
+
+[[slideshow]]
+file = "3-biogenesis-commands.jpg"
+caption = "SYN-BIOGENESIS: the command palette"
+
+[[slideshow]]
+file = "4-syn-rtos.jpg"
+caption = "SYN-RTOS, 2022: Openbox and Tint2"

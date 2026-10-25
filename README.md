@@ -1,29 +1,15 @@
-<h1 align="center">Hi 👋, I'm Syntax990 / William</h1>
-<h3 align="center">A hacker from the early 2000's gone rouge with 22nd century equipment.</h3>
-
-- 🔭 I’m currently working on [SYN-OS](https://github.com/syn990/SYN-OS)
-
-- 👨‍💻 All of my projects are available at [https://github.com/syn990/](https://github.com/syn990/)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/william-hayward-holland-990](https://www.linkedin.com/william-hayward-holland-990)
-
-- 📫 How to reach me **william@npc.syntax990.com**
-
-- ⚡ Fun fact **I'm from the 22nd Century**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/william-hayward-holland-990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="william-hayward-holland-990" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/syn990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="syn990" height="30" width="40" /></a>
+<p>
+<a href="https://github.com/syn990/syn990/tree/main/home/Documents"><img src="var/desktop/a1.svg" width="9.4%" align="top" alt="Documents"></a><a href="https://github.com/syn990/syn990/tree/main/home/Pictures"><img src="var/desktop/a2.svg" width="9.4%" align="top" alt="Pictures"></a><a href="https://github.com/syn990/syn990/tree/main/usr/bin"><img src="var/desktop/a3.svg" width="9.4%" align="top" alt="Tools"></a><a href="https://github.com/syn990/syn990/blob/main/home/Documents/SYN-OS.md"><img src="var/desktop/a4.svg" width="9.4%" align="top" alt="SYN-OS"></a><a href="https://github.com/syn990/syn990/blob/main/home/Documents/SYN-BIOGENESIS.md"><img src="var/desktop/a5.svg" width="9.4%" align="top" alt="SYN-BIOGENESIS"></a><a href="mailto:william@npc.syntax990.com"><img src="var/desktop/a6.svg" width="9.4%" align="top" alt="Mail"></a><a href="https://www.youtube.com/@syn990"><img src="var/desktop/a7.svg" width="9.4%" align="top" alt="YouTube"></a><a href="https://github.com/syn990/SYN-OS"><img src="var/desktop/a8.svg" width="34.2%" align="top" alt="Notice"></a><br>
+<a href="https://github.com/syn990/syn990/blob/main/home/whoami.md"><img src="var/desktop/b1.svg" width="60%" align="top" alt="fastfetch: William Hayward-Holland"></a><a href="https://github.com/syn990/syn990/tree/main/home/Pictures"><img src="var/desktop/b2.svg" width="40%" align="top" alt="Pictures slideshow"></a><br>
+<a href="https://github.com/syn990?tab=repositories"><img src="var/desktop/c1.svg" width="100%" align="top" alt="syn-sysmon: GitHub stats"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SYN990&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SYN990&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SYN990&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=SYN990&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center"><sub>
+<a href="https://github.com/syn990/syn990/tree/main/home/Documents">Documents</a> ·
+<a href="https://github.com/syn990/syn990/tree/main/home/Pictures">Pictures</a> ·
+<a href="https://github.com/syn990/syn990/tree/main/usr/bin">Tools</a> ·
+<a href="https://github.com/syn990/syn990/blob/main/home/whoami.md">whoami</a> ·
+<a href="mailto:william@npc.syntax990.com">william@npc.syntax990.com</a> ·
+<a href="https://www.linkedin.com/in/william-hayward-holland-990">LinkedIn</a> ·
+<a href="https://www.youtube.com/@syn990">YouTube</a>
+</sub></p>
